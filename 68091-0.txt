@@ -19,6 +19,7 @@ Author: Nancy Oakley
 
 
 Release Date: May 15, 2022  [eBook #68091]
+[Last updated: July 13, 2022]
 
 Language: English
 
@@ -820,7 +821,7 @@ eyes that in some lights seemed to be of a rich purple and in others of a
 sombre, rather heavy blue.  They were wonderful eyes and one had no need
 to wonder that the men of the Dale should be, to use Lady Clevedon’s
 words, “crazy over her.”  She had then more admirers than she could count
-on the fingers of both her slim, capably hands, and is still unmarried.
+on the fingers of both her slim, capable hands, and is still unmarried.
 I think I know why, though I have hardly any right to say so.
 
 She spoke with an educated intonation, in curious contrast with her
@@ -1079,7 +1080,7 @@ Tudors, doing most things badly but generally with clean hands.
 
 But the late Sir Philip Clevedon was something of a mystery.  No one had
 heard of him until the death of his cousin had given him the title.  He
-had never been in Cartordale before that, and way entirely unknown even
+had never been in Cartordale before that, and was entirely unknown even
 to his relatives.  They had no idea even where he lived.  Rumour was
 almost equally divided between America and Australia, but without any
 real foundation, since he himself vouchsafed no information on the point.
@@ -1402,7 +1403,7 @@ police, for example, would take of your midnight adventure.”
 “You had better go and tell them,” she flamed out.  “They might believe
 you, you know.”
 
-“You were in my house on that night,” I said, and waited to see if she,
+“You were in my house on that night,” I said, and waited to see if she
 would deny the visit even to me.
 
 “So you said before,” she retorted.
@@ -2779,7 +2780,7 @@ murdered.  But I shall find out, and then I’ll let you know.”
 
 “Not at all.”
 
-“Then are you—?
+“Then are you—?”
 
 “Sherlock Holmes disguised,” I said with a laugh.  “Why not?  Anyway,
 Kelham is no fool.  Why not take his advice and let me come in?  Not that
@@ -3025,7 +3026,7 @@ their salaries—or is it wages?”
 “No, but then you see I am not a policeman; I am merely a writer of
 books.”
 
-“But the Chief Constable of Peakborough-he is a cousin of mine, distant,
+“But the Chief Constable of Peakborough--he is a cousin of mine, distant,
 but still a cousin, and a fool at that, or he would have found out before
 this who killed Sir Philip—told me you were a celebrated detective and
 that if I could get your help—now, who did murder Sir Philip Clevedon?”
@@ -3315,7 +3316,7 @@ we should be going the same way.
 “And so you know the lady they quarrelled over,” I remarked, after a few
 preliminary observations.
 
-“Yes,” he replied, “but I’m not telling.  My grand-darter’s ‘tween maid
+“Yes,” he replied, “but I’m not telling.  My grand-darter’s ’tween maid
 at Hapforth and she knows all about it.  They quarrelled over her right
 enough.”
 
@@ -5145,7 +5146,7 @@ pull hard.
 I obeyed; there was a grinding and groaning as of rusty machinery and
 then the rock in front swung back and we found ourselves in an open
 chamber with walls and floor of natural rock, but a roof of worked stone
-formed of square flags, all save one supported by pillars Of rusty iron.
+formed of square flags, all save one supported by pillars of rusty iron.
 There were nine stone flags, each six feet by four, and eight pillars,
 and the dimensions of the cellar or cave were thus eighteen feet by
 twelve.  The height would probably be about eight feet.  We could at
@@ -5693,7 +5694,7 @@ talk until we are out.”
 They made a safe landing, and Jimmy helped Kitty to alight.
 
 “Now tell me,” she demanded, turning on him suddenly, “do you know where
-my brother is?
+my brother is?”
 
 “Why, yes,” he replied, evidently a little mystified at her manner.
 
